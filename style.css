@@ -1,4 +1,22 @@
-header {background-color: #faebd6; height: 400px;}
-h1 {color: #ff0000; font-size:xx-large;line-height: 100px;}
-.paragraf1 {color: #a42423; font-size: x-large;line-height: 100px;}
-.paragraf2 {color: #00008f; font-size: x-large;line-height: 100px;}
+header {
+    background-color: #faebd6;
+    height: 400px;
+}
+
+h1 {
+    color: #ff0000;
+    font-size: xx-large;
+    line-height: 100px;
+}
+
+.paragraf1 {
+    color: #a42423;
+    font-size: x-large;
+    line-height: 100px;
+}
+
+.paragraf2 {
+    color: #00008f;
+    font-size: x-large;
+    line-height: 100px;
+}
